@@ -1,5 +1,5 @@
 # Sistema de recomendación de películas
-Este repositorio consta de un programa y un archivo.
+Este repositorio consta de un programa y un archivo. n/
 El programa genera un dataframe de prueba con los titulos de 100 peliculas.
 Estos titulos se cargan en un archvio CSV cada vez que se ejecuta, renombrando los de la anterior prueba.
 Se abre una pantalla que nos pedirá un input de las peliculas disponibles (generadas en el archivo CSV).
